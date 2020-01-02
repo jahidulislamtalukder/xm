@@ -1,0 +1,140 @@
+
+
+	body{
+
+
+	}
+h1{
+
+color:white;
+font-size:40px;
+font-weight: bold;
+}
+h2{
+
+
+
+}
+h3{
+
+
+
+}
+h5{
+
+color:white;
+margin:10px 0px;
+}
+p{
+
+
+}
+/*global css*/
+header{
+
+	
+}
+.navbar-toggler{
+
+	background-color:#1d0d0fd9;
+}
+
+
+.nav-head{
+background-color:white!important;
+padding:28px 0px;
+}
+
+.nav-link.js-scroll-trigger.active{
+
+background-color:white;
+padding: 8px 12px;
+border-radius: 30px;
+color:989898!important;
+}
+
+.nav-link{
+
+color:#989898!important;
+
+}
+
+
+.hero {
+    background: url(../img/bg.png)top center;
+    background-size: cover;
+    padding: 210px 0px;
+    text-align: center;
+    color: #fff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.ove{
+
+background-color: #383d414a;
+}
+.hero-title{
+
+padding:160px 0px;
+text-align: center;
+}
+
+.btn1{
+
+padding:13px 38px;
+background-color:#99c50a;
+color:white;
+font-size:14px;
+border-radius: 10px;
+border-color:#99c50a;
+
+margin-top:80px;
+}
+.works{
+padding:70px 0px;
+text-align: center;
+
+}
+.wrkt h1{
+color:#515151;
+font-size: ;
+}
+.wrkt{
+
+
+}
+.btn2{
+
+padding:13px 38px;
+background-color:lightblue;
+color:white;
+font-size:14px;
+border-radius: 10px;
+border-color:lightblue;
+}
+.btn3{
+padding:13px 38px;
+background-color:#99c50a;
+color:white;
+font-size:14px;
+border-radius: 10px;
+border-color:#99c50a;
+
+}
+.gb{
+
+	padding:50px 40px;
+}
